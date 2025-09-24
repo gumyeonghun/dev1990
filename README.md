@@ -2,7 +2,7 @@
 
 void main() {
 
-int a = 90;
+int a = 84;
 
 print ('필수문제 1번');
 
